@@ -5,7 +5,7 @@
 <h2 align="center">🚀 Transforming Ideas Into Reality 🚀</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Creative+Pro;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00CED1&center=true&vCenter=true&width=435&lines=Problem+Solver;Tech+Enthusiast;Algorithm+Explorer" alt="Typing SVG" />
 </p>
 
 ---
