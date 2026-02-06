@@ -35,17 +35,18 @@
 </p>
 
 ---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=monal-am&theme=tokyonight" />
+</p>
+
+---
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=monal-am&theme=tokyo-night" />
-</p>
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monal-am&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
