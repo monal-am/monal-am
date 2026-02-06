@@ -44,10 +44,10 @@
   <a href="mailto:ambwanimonal@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/monal-ambwani-777643376/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="YOUR_GITHUB_URL">
+  <a href="https://github.com/monal-am">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
@@ -56,7 +56,7 @@
 
 ## 💭 My Philosophy
 
-> **"Build with purpose, code with passion, and create solutions that matter."**
+> **"Developing with purpose, debugging with patience, delivering with pride."**
 
 ---
 
