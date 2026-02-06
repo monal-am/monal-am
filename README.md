@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</p>
+---
 <h1 align="center">Monal Ambwani</h1>
 <h3 align="center">🚀 Transforming Ideas Into Reality 🚀</h3>
 
