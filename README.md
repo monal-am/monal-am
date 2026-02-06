@@ -54,17 +54,20 @@
 ### 🌐 Find Me Around the Web
 
 <p align="center">
-  <a href="mailto:ambwanimonal@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.instagram.com/monal_ambwani/?__pwa=1">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+ <a href="mailto:ambwanimonal@gmail.com">
+    <img src="https://img.icons8.com/color/96/000000/gmail-new.png" width="80" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/monal-ambwani-777643376/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="80" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/monal-am">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.icons8.com/fluency/96/000000/github.png" width="80" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/u/monal_ambwani/">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" width="80" alt="LeetCode"/>
+  </a>
+  <a href="https://www.instagram.com/monal_ambwani/?__pwa=1">
+    <img src="https://img.icons8.com/fluency/96/000000/instagram-new.png" width="80" alt="Instagram"/>
   </a>
 </p>
 
