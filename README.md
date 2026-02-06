@@ -10,13 +10,17 @@
 
 ---
 
-## 🚀 About Me
+## ⭐ About Me
 
-- 🎓 **Computer Science Student at UPES**
-- 🌱 Currently mastering **Data Structures & Algorithms, C, Java, and Python**
-- 💡 Passionate about building **innovative solutions** that make a real difference
-- 🎯 Goal-oriented developer focused on **clean code** and **efficient solutions**
-- 🔍 Always exploring **cutting-edge technologies** and modern frameworks
+• 🎓 Computer Science student at **UPES** with strong technical curiosity  
+• 🧠 Strengthening expertise in **DSA, C, Java, and Python programming**  
+• 💻 Practicing **competitive programming and coding challenges** to enhance logical skills  
+• 💡 Passionate about developing **scalable and efficient software solutions**  
+• 🚀 Committed to continuous improvement through **projects and hands-on learning**  
+• 📚 Dedicated to continuous learning and staying updated with **industry trends**  
+• 🔬 Exploring innovative technologies and modern development practices  
+• 🎯 Focused on developing skills that support **innovation, efficiency, and long-term growth**
+
 
 ---
 
