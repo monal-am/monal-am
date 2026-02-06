@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Monal%20Ambwani&fontSize=70&fontColor=fff" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&width=100%&section=header&text=Monal%20Ambwani&fontSize=70&fontColor=fff" alt="Header"/>
 </h1>
 
 <h2 align="center">🚀 Transforming Ideas Into Reality 🚀</h2>
