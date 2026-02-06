@@ -55,8 +55,6 @@
 
 ## 💬 Let's Connect & Collaborate!
 
-### 🌐 Find Me Around the Web
-
 <p align="left">
  <a href="mailto:ambwanimonal@gmail.com">
     <img src="https://img.icons8.com/color/96/000000/gmail-new.png" width="80" alt="Gmail"/>
