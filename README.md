@@ -1,9 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</p>
----
-<h1 align="center">Monal Ambwani</h1>
-<h3 align="center">🚀 Transforming Ideas Into Reality 🚀</h3>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Monal%20Ambwani&fontSize=70&fontColor=fff" alt="Header"/>
+</h1>
+
+<h2 align="center">🚀 Transforming Ideas Into Reality 🚀</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Creative+Pro;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
